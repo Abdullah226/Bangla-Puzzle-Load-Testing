@@ -1,1 +1,1 @@
-# Quize game with c programming
+# Quiz game with c programming
