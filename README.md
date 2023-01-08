@@ -1,1 +1,1 @@
-# Bangla-Puzzle-Load-Testing
+# Quize game with c programming
